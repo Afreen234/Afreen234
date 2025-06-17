@@ -67,7 +67,7 @@ Just like cricket, I believe tech is all about timing, precision, and playing as
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afreen234&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
----
+
 
 ### 📫 Connect With Me:
 
@@ -81,6 +81,5 @@ Just like cricket, I believe tech is all about timing, precision, and playing as
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
 </a>  
 
----
 
 ⭐ _“Let’s code with purpose and build what matters.”_
