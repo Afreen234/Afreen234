@@ -1,24 +1,22 @@
 <h1 align="center">Hi 👋, I'm Afreen</h1>
 <h3 align="center">💻 Software Engineer | 🌐 Full-Stack Developer | 🤖 ML Enthusiast | 💡 Hackathon Finalist</h3>
 
----
 
 🌟 Passionate about turning ideas into real-world tech solutions — from beautiful frontends to intelligent backends. Currently shaping projects that blend AI, data, and purpose.
 
----
+
 
 ### 🚀 Projects :
 - **🌸 Sakhi** – PCOS Detection using ML + React interface  
 - **🌾 SmartHarvest** – Recommends crops & fertilizers based on weather and soil data  
 
----
 
 ### 🌱 I'm Currently Exploring:
 - 🔍 Deep diving into **React** + advanced component architecture  
 - 🛠️ Backend efficiency with **Django REST Framework**  
 - 🤖 Intelligent agents, real-time APIs, and system scaling  
 
----
+
 
 ### 🧰 Tech Stack:
 
@@ -49,14 +47,14 @@
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma) 
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
----
+
 
 ### ⚡ Fun Fact:
 
 When I'm not debugging code, I'm decoding cricket strategies 🏏.  
 Just like cricket, I believe tech is all about timing, precision, and playing as a team!
 
----
+
 
 ### 📊 GitHub Stats
 
