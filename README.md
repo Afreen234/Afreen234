@@ -50,13 +50,13 @@
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
 ---
----
 
 ### ⚡ Fun Fact:
 
 When I'm not debugging code, I'm decoding cricket strategies 🏏.  
 Just like cricket, I believe tech is all about timing, precision, and playing as a team!
 
+---
 
 ### 📊 GitHub Stats
 
