@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afreen</h1>
-<h3 align="center">🌐 Full-Stack Developer | 🤖 ML Enthusiast | 💡 Hackathon Finalist</h3>
+<h3 align="center">🌐 FrontEnd Developer | 🤖 ML Enthusiast | 💡 Hackathon Finalist</h3>
 
 
 🌟 Passionate about turning ideas into real-world tech solutions — from beautiful frontends to intelligent backends. Currently shaping projects that blend AI, data, and purpose.
